@@ -5,7 +5,6 @@ Pod::Spec.new do |s|
   s.description         = <<-DESC
                         Tencent XGPush SDK 2.3.2 for iOS
                         DESC
-  s.social_media_url    = 'https://twitter.com/jiawei_maple'
   s.homepage            = 'http://xg.qq.com/xg/'
   s.license             = { :type => 'Copyright', :text => '2014 Tencent' }
   s.authors             = { 'Tencent' => 'http://xg.qq.com/xg/' }
