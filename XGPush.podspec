@@ -1,16 +1,16 @@
 Pod::Spec.new do |s|
   s.name         = 'XGPush'
-  s.version      = '2.3.0'
-  s.summary      = 'XGPush SDK 2.3.0 for iOS.'
+  s.version      = '2.3.2'
+  s.summary      = 'XGPush SDK 2.3.2 for iOS.'
 
   s.description  = <<-DESC
-                   XGPush SDK 2.3.0 for iOS.
+                   XGPush SDK 2.3.2 for iOS.
                    DESC
   s.homepage     = 'http://xg.qq.com/xg/'
   s.license      = { :text => 'Copyright', :text => '2014 Tencent' }
   s.authors      = { 'Tencent' => 'http://xg.qq.com/xg/' }
   s.platform     = :ios, "5.0"
-  s.source       = { :git => "https://github.com/MapleJ/XGPush.git", :tag => "2.3.0" }
+  s.source       = { :git => "https://github.com/MapleJ/XGPush.git", :tag => "2.3.2" }
 
   s.vendored_libraries  = 'XGPush/libXG-SDK.a'
   s.source_files        = 'XGPush/Headers/*.h'

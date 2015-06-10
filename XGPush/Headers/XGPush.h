@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#define XG_SDK_VERSION @"2.3"
+#define XG_SDK_VERSION @"2.3.2"
 
 @interface XGPush : NSObject
 

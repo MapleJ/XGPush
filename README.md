@@ -1,4 +1,4 @@
-# The XGPush SDK for iOS
+# The XGPush SDK for iOS v2.3.2
 
 This repository is the XGPush SDK for iOS.
 
